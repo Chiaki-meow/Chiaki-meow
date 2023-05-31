@@ -1,6 +1,6 @@
-### Hi there 👋
+### WELCOME!!! 🌍
 
-I'm Chiaki! Currently I'm a senior undergraduate student in Shanghai Jiao Tong University.
+I'm Chiaki! I'm a senior undergraduate student in Shanghai Jiao Tong University. 
 
 - 🎑 I'm a CG beginner and trying to find my own eager. 
 - ☀️ I'm an positive person, and I'm trying to bring more warm to my friends.
