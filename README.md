@@ -3,7 +3,7 @@
 I'm Chiaki! I'm a senior undergraduate student in Shanghai Jiao Tong University. 
 
 - 🎑 I'm a CG beginner and trying to find my own eager. 
-- ☀️ I'm an positive person, and I'm trying to bring more warm to my friends.
+- ☀️ I'm a positive person, and I'm trying to bring more warm to my friends.
 - 🎮 I'm a gamer, AND I have played League of Lengends for over 2000 hours. 
 
 ### The time I spent to realize my TA dream:<
