@@ -9,7 +9,7 @@ I'm Chiaki! I'm a senior undergraduate student in Shanghai Jiao Tong University.
 ### The time I spent to realize my TA dream:<
 <!--START_SECTION:waka-->
 
-```text
+```txt
 C++   0 secs          █████████████████████████   100.00 %
 ```
 
