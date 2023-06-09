@@ -10,7 +10,9 @@ I'm Chiaki! I'm a senior undergraduate student in Shanghai Jiao Tong University.
 <!--START_SECTION:waka-->
 
 ```txt
-C++   0 secs          █████████████████████████   100.00 %
+C++          21 mins         █████████████████████▒░░░   84.74 %
+ObjectiveC   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
