@@ -10,11 +10,11 @@ I'm Chiaki! I'm a senior undergraduate student in Shanghai Jiao Tong University.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js            1 hr 49 mins    █████████████░░░░░░░░░░░░   52.37 %
-JavaScript        48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.37 %
-TypeScript        41 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-Git Config        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-JSON              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Vue.js            8 hrs 54 mins   ███████████████████▓░░░░░   78.51 %
+JavaScript        1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+TypeScript        41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Text              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Git Config        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
