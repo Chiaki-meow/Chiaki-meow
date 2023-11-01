@@ -10,7 +10,11 @@ I'm Chiaki! I'm a senior undergraduate student in Shanghai Jiao Tong University.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C         14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.63 %
+Bash      12 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
+Denizen   11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+INI       7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Other     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
 
 <!--END_SECTION:waka-->
