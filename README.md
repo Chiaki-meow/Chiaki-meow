@@ -1,6 +1,6 @@
 ### WELCOME!!! 🌍
 
-I'm Chiaki! I'm a senior undergraduate student in Shanghai Jiao Tong University.:D
+I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in software engineering.:D
 
 -  I'm a CG beginner and trying to find my own eager. 
 -  I'm a positive person, and I'm trying to bring more warm to my friends.
