@@ -10,7 +10,8 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in so
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SSH Config   36 mins         ██████████████████▒░░░░░░   72.76 %
+JSON         13 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
 ```
 
 <!--END_SECTION:waka-->
