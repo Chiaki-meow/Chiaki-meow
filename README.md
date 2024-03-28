@@ -20,10 +20,6 @@ C++          0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### The experience of games is AMAZING!!!!
- <!-- steam-box start -->
- <!-- steam-box end -->
-
 <!--
 **Chiaki-meow/Chiaki-meow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
