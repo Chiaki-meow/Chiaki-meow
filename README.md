@@ -6,7 +6,7 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in so
 -  I'm a positive person, and I'm trying to bring more warm to my friends.
 -  I'm a gamer, AND I have played League of Lengends for over 3000 hours. 
 
-### The time I spent to realize my TA dream:<
+### The time I spent to realize my CG dream:>
 <!--START_SECTION:waka-->
 
 ```txt
