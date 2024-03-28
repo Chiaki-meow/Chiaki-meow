@@ -20,7 +20,7 @@ C++          0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### GAMES are AMAZING
+### The experience of games is AMAZING!!!!
  <!-- steam-box start -->
  <!-- steam-box end -->
 
