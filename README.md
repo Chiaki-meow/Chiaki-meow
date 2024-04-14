@@ -11,8 +11,8 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in so
 <!--START_SECTION:waka-->
 
 ```txt
-C++              8 hrs 45 mins   ████████████████████████░   95.58 %
-ObjectiveC       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+C++              8 hrs 44 mins   ████████████████████████░   95.57 %
+ObjectiveC       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
