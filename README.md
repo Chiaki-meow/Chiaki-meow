@@ -11,11 +11,11 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in so
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           12 hrs 25 mins  ███████████████████░░░░░░   76.27 %
-C++              1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-GLSL shader      1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-GLSL             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Vue.js           8 hrs 48 mins   ███████████████▒░░░░░░░░░   61.15 %
+C++              3 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
+GLSL             43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+GLSL shader      36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+ObjectiveC       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
