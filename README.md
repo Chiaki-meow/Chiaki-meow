@@ -2,8 +2,9 @@
 
 I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in software engineering.:D
 
--  Currently I'm fully curious about how to enhance painting/animating workflow between artists and their ideal results! Therefore I spent some time in making my HCI demo:>
--  I have played various games on PC, AND I have played League of Lengends for over 3000 hours.
+-  Currently I'm fully curious about using AI technology to enhance painting/animating workflow between artists and their ideal results! It will be even better if i can accelerate their modeling!
+-  I'm interedted in interaction with MR, therefore I'm spending some time in making my AR painting demo:>
+-  I have played various games on PC, and I have played League of Legends for over 5000 hours.
 
 
 ### wait, am i coding for graphics?
