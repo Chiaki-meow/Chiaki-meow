@@ -11,11 +11,11 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in so
 <!--START_SECTION:waka-->
 
 ```txt
-C++         2 hrs 26 mins   █████████████████░░░░░░░░   67.97 %
-CMake       57 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
-Markdown    10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+C++         2 hrs 26 mins   █████████████████░░░░░░░░   67.92 %
+CMake       57 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+Markdown    10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 HTML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-C#          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C#          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
