@@ -11,11 +11,11 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in so
 <!--START_SECTION:waka-->
 
 ```txt
-C#                 20 mins         ██████████████████▒░░░░░░   73.39 %
-Git Config         7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
-Rich Text Format   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C#                                 6 hrs 7 mins    ██████████████████████░░░   87.96 %
+UnityYaml                          26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+INI                                12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Git Config                         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+JSON                               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
