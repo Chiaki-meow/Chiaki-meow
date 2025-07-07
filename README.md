@@ -11,11 +11,7 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in so
 <!--START_SECTION:waka-->
 
 ```txt
-C#          4 hrs 50 mins   ███████████████████████▓░   94.28 %
-UnityYaml   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Other       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Csproj      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-textmate    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
