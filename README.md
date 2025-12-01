@@ -1,10 +1,11 @@
 ### WELCOME!!! 🌍
 
-I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in software engineering.:D
+I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in Software Engineering.:D. Also I gained my bachloar degree from SJTU. 
 
--  Currently I'm fully curious about using AI technology to enhance painting/animating workflow between artists and their ideal results! It will be even better if i can accelerate their modeling!
--  I'm interedted in interaction with MR, therefore I'm spending some time in making my AR painting demo:>
--  I have played various games on PC, and I have played League of Legends for over 5000 hours.
+-  A programmer dreaming of becoming a technic artist. XD
+-  Currently I'm fully curious about using AI technology/designing tools to enhance painting/animating workflow between artists and their ideal results!
+-  I'm interedted in interaction with MR, therefore I'm spending some time in making my AR painting demo.
+-  I have played various games on PC, and I have played League of Legends for over 5000 hours. 
 
 
 ### wait, am i coding for graphics?
