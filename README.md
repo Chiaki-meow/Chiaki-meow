@@ -12,11 +12,11 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in So
 <!--START_SECTION:waka-->
 
 ```txt
-C#              1 hr 4 mins           ████████████▓░░░░░░░░░░░░   50.92 %
-Unity3D Asset   30 mins               ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-Markdown        18 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Shell           11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Csproj          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+C#              34 mins               ███████████░░░░░░░░░░░░░░   44.45 %
+Other           16 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
+Unity3D Asset   13 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Shell           11 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Markdown        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
