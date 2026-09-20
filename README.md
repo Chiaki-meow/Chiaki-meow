@@ -12,10 +12,10 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in So
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 hrs 16 mins         █████████████▒░░░░░░░░░░░   52.83 %
-Python     3 hrs 35 mins         ███████████░░░░░░░░░░░░░░   44.31 %
-Other      13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown   4 hrs 16 mins         ████████████▒░░░░░░░░░░░░   48.84 %
+Python     4 hrs 14 mins         ████████████░░░░░░░░░░░░░   48.51 %
+Other      13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
