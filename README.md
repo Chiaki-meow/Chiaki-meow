@@ -12,9 +12,8 @@ I'm Chiaki! I'm a graduate student in Shanghai Jiao Tong University, major in So
 <!--START_SECTION:waka-->
 
 ```txt
-C#       25 mins               ████████████████▒░░░░░░░░   65.21 %
-Other    7 mins                █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-Python   5 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+C#      25 mins               ██████████████████████▒░░   88.97 %
+Other   3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
 ```
 
 <!--END_SECTION:waka-->
